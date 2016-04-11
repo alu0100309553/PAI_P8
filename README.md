@@ -1,4 +1,5 @@
-# Práctica 8, Programación de Aplicaciones Interactivas. Movimiento y control de un objeto gráfico
+# Práctica 8, Programación de Aplicaciones Interactivas. Movimiento y control de un objeto gráfico.
+#Movement and control of a graphic object.
 
 ![](./img/gui.png)
 

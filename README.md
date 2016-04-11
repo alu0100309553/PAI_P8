@@ -11,4 +11,5 @@ Program that shows a graphic panel with a blue ball in the middle, the ball can 
 ![](./img/coverage.png)
 
 El programa se ha realizado empleando diseño dirigido por comportamiento, haciendo uso de AssertJ, JUnit y JaCoCo.
+
 The program has been developed using BDD (behavioral driven development), using AssertJ, JUnit and JaCoCo.
